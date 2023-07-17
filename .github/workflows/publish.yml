@@ -28,7 +28,7 @@ jobs:
 
               run: npm publish --access public
 
-              working-directory: my-package
+              working-directory: 
 
               env:
 
